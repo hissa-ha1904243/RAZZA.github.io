@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Hissa's House",
+    "city": "Alkhor",
+    "userID": 1,
+    "zoneNo": 78,
+    "streetNo": 12,
+    "buildingNo": 11
+  },
+  {
+    "id": 2,
+    "name": "Deema's House",
+    "city": "Doha",
+    "userID": 2,
+    "zoneNo": 56,
+    "streetNo": 670,
+    "buildingNo": 61
+  },
+  {
+    "id": 3,
+    "name": "Shaikha's House",
+    "city": "Abu Hamour",
+    "userID": 4,
+    "zoneNo": 56,
+    "streetNo": 670,
+    "buildingNo": 61
+  },
+  {
+    "id": 4,
+    "name": "Sulafa's House",
+    "city": "Doha",
+    "userID": 3,
+    "zoneNo": 56,
+    "streetNo": 670,
+    "buildingNo": 61
+  },
+  {
+    "id": 5,
+    "name": "Dhabia's House",
+    "city": "Abu Hamour",
+    "userID": 5,
+    "zoneNo": 56,
+    "streetNo": 670,
+    "buildingNo": 61
+  }
+]

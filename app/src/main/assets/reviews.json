@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "pid": 1,
+    "uid": 1,
+    "text": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "pid": 2,
+    "uid": 2,
+    "text": "Great Product!",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "pid": 3,
+    "uid": 3,
+    "text": "I like this product quality",
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "pid": 4,
+    "uid": 1,
+    "text": "Good!",
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "pid": 5,
+    "uid": 5,
+    "text": "Nice!",
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "pid": 6,
+    "uid": 3,
+    "text": "Not Bad!",
+    "rating": 2
+  },
+  {
+    "id": 7,
+    "pid": 7,
+    "uid": 5,
+    "text": "Perfecctt!",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "pid": 8,
+    "uid": 1,
+    "text": "Not Bad!",
+    "rating": 2
+  },
+  {
+    "id": 9,
+    "pid": 9,
+    "uid": 5,
+    "text": "Good Quality!",
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "pid": 10,
+    "uid": 3,
+    "text": "Good!",
+    "rating": 3
+  },
+  {
+    "id": 11,
+    "pid": 11,
+    "uid": 2,
+    "text": "The Best!",
+    "rating": 3
+  },
+  {
+    "id": 12,
+    "pid": 12,
+    "uid": 2,
+    "text": "I recommend it!",
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "pid": 13,
+    "uid": 5,
+    "text": "very good product!",
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "pid": 14,
+    "uid": 2,
+    "text": "very good product!",
+    "rating": 4
+  },
+  {
+    "id": 15,
+    "pid": 15,
+    "uid": 1,
+    "text": "very good product!",
+    "rating": 4
+  },
+  {
+    "id": 16,
+    "pid": 16,
+    "uid": 5,
+    "text": "very good product!",
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "pid": 17,
+    "uid": 5,
+    "text": "very good!",
+    "rating": 3
+  },
+  {
+    "id": 18,
+    "pid": 18,
+    "uid": 2,
+    "text": "Perfecct!",
+    "rating": 4
+  },
+  {
+    "id": 19,
+    "pid": 19,
+    "uid": 1,
+    "text": "GOOOOD!",
+    "rating": 4
+  },
+  {
+    "id": 20,
+    "pid": 20,
+    "uid": 5,
+    "text": "I recommend it!",
+    "rating": 4
+  },
+  {
+    "id": 21,
+    "pid": 20,
+    "uid": 3,
+    "text": "Nice!",
+    "rating": 4
+  },
+  {
+    "id": 22,
+    "pid": 20,
+    "uid": 2,
+    "text": "good!",
+    "rating": 3
+  }
+]

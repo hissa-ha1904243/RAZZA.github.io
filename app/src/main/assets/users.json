@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "Hissa",
+    "password":"12345",
+    "email":"hissa@gmail.com",
+    "phone": "1234567"
+  },
+  {
+    "id": 2,
+    "username": "Deema",
+    "password":"12345",
+    "email":"deema@gmail.com",
+    "phone": "1346523"
+  },
+  {
+    "id": 3,
+    "username": "Sulafa",
+    "password":"12345",
+    "email":"sulafa@gmail.com",
+    "phone": "7853654"
+  },
+  {
+    "id": 4,
+    "username": "Shaikha",
+    "password":"12345",
+    "email":"shaikha@gmail.com",
+    "phone": "7884323"
+  },
+  {
+    "id": 5,
+    "username": "Dhabia",
+    "password":"12345",
+    "email":"dhabia@gmail.com",
+    "phone": "9894654"
+  },
+  {
+    "id": 6,
+    "username": "admin",
+    "password":"12345",
+    "email":"admin@gmail.com",
+    "phone": "1122333"
+  }
+]

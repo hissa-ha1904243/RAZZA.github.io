@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553730840181",
+    "project_id": "razzashoppingapp-64826",
+    "storage_bucket": "razzashoppingapp-64826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553730840181:android:233b5212b2b5de4bf20a3c",
+        "android_client_info": {
+          "package_name": "com.example.razzashoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553730840181-r15ofj53aj4gag6jtufktfooa0aotrgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcW9CqtyvDDdtWukHLWHOCBl18Ly3Amts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553730840181-r15ofj53aj4gag6jtufktfooa0aotrgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
